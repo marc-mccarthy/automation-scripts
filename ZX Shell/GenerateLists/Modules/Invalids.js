@@ -26,4 +26,4 @@ const invalids = [
   'Windows Kits',
 ];
 
-module.exports = invalids;
+export default invalids

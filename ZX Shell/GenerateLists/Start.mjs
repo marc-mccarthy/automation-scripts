@@ -1,11 +1,11 @@
 #! /usr/bin/env node
 
 // imports
-import 'zx/globals'
 import chalk from 'chalk';
+import fs from 'fs-extra';
+import 'zx/globals';
+import saveLocation from './Modules/SaveLocation.js';
 import topics from './Modules/Topics.js';
-import saveLocation from './Modules/SaveLocation.js'
-const fs = require('fs-extra');
 $.verbose = false;
 
 // define chalk themes

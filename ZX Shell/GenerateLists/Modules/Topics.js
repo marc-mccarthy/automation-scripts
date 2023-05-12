@@ -50,4 +50,4 @@ const topics = [
 	},
 ];
 
-module.exports = topics;
+export default topics;

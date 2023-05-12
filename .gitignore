@@ -1,25 +1,7 @@
 node_modules
 
-ZX Shell\GenerateLists\Lists\Program Files.md
-ZX Shell\GenerateLists\Lists\Program Files (x86).md
-ZX Shell\GenerateLists\Lists\Installers.md
-ZX Shell\GenerateLists\Lists\Portable.md
-ZX Shell\GenerateLists\Lists\Disks.md
-ZX Shell\GenerateLists\Lists\Courses.md
-ZX Shell\GenerateLists\Lists\TV Shows.md
-ZX Shell\GenerateLists\Lists\Movies.md
-ZX Shell\GenerateLists\Lists\Steam.md
-ZX Shell\GenerateLists\Lists\Games.md
+ZX Shell\GenerateLists\Lists\*
 
-Python\GenerateLists\Lists\Program Files.md
-Python\GenerateLists\Lists\Program Files (x86).md
-Python\GenerateLists\Lists\Installers.md
-Python\GenerateLists\Lists\Portable.md
-Python\GenerateLists\Lists\Disks.md
-Python\GenerateLists\Lists\Courses.md
-Python\GenerateLists\Lists\TV Shows.md
-Python\GenerateLists\Lists\Movies.md
-Python\GenerateLists\Lists\Steam.md
-Python\GenerateLists\Lists\Games.md
+Python\GenerateLists\Lists\*
 
 __pycache__/

@@ -5,3 +5,6 @@ ZX Shell\GenerateLists\Lists\*
 Python\GenerateLists\Lists\*
 
 __pycache__/
+
+.env
+*.env
